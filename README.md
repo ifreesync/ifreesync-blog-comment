@@ -1,1 +1,1 @@
-# ifreesync-comment
+# ifreesync-blog-comment
